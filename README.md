@@ -18,7 +18,7 @@ Prepare the lists from linear equation and assign in np.array().
 ### Step 3 : 
 Using the np.linalg.inv(), we can find the rank of the given matrix.
 ### Step 4 : 
-End the Program.
+End the Program.  
 
 ## PROGRAM :
 ```
