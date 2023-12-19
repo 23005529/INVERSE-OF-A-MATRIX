@@ -35,7 +35,7 @@ print(solution)
 
 Python program to find the inverse of a matrix.
 
-![Alt text](output.png)
+![Alt text](output1.png)
 
 ## RESULT :
 
